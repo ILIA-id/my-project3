@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: chartreuse;
+}
+header{
+    background-color: darkgreen;
+    text-align: center;
+}
+header a{
+    font-size: 27px;
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid gold;
+    color: black;
+}
+main p{
+    font-size: 20px;
+}
+footer{
+    background-color: darkgreen;
+}
